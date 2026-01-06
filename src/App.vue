@@ -4,7 +4,6 @@
 <template>
 
 
-<h1>Hello world</h1>
 <p>
   Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus quam maiores adipisci, eos inventore aliquam quae expedita maxime, asperiores, eius enim dolore ipsam velit sint nam distinctio deserunt ab saepe!
 </p>

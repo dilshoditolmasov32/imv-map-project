@@ -1,11 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <p>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus quam
-    maiores adipisci, eos inventore aliquam quae expedita maxime, asperiores,
-    eius enim dolore ipsam velit sint nam distinctio deserunt ab saepe!
-  </p>
+  <h1>hello world</h1>
   <img src="../src/assets/grand-logo.svg" alt="logo iconka" />
 </template>
 
